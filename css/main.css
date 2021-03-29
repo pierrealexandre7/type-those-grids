@@ -61,3 +61,27 @@ h2 {
 p {
   margin: 0 0 1.5rem;
 }
+
+figure {
+  margin: 0;
+}
+
+figure h2 {
+  margin-bottom: 0;
+}
+
+figcaption {
+  padding: 1rem;
+}
+
+dl {
+  margin: 0;
+}
+
+dd {
+  margin-left: 1rem;
+}
+
+dt {
+  font-style: italic;
+}
